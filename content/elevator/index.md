@@ -14,4 +14,4 @@ date: 2022-08-19
 - In a packed elevator, if you're at the front and someone at the back needs to exit, step out and give them the space to leave. Once they're out, you may head back inside
 
 ## sources
-- https://inclinator.com/7-rules-elevator-etiquette/
+- [Elevator Etiquette by Inclinator](https://inclinator.com/7-rules-elevator-etiquette/)

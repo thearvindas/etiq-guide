@@ -10,4 +10,4 @@ date: 2022-08-19
  - Respect other people’s space while on the queue
 
 ## sources
-- https://www.vanguardngr.com/2016/09/etiquette-queuing-stay-line/
+- [Queue Etiquette by Vanguard](https://www.vanguardngr.com/2016/09/etiquette-queuing-stay-line/)

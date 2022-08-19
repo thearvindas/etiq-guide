@@ -14,5 +14,5 @@ date: 2022-08-19
 
 
 ## sources
-- https://www.etiquettescholar.com/dining_etiquette/table_manners.html
-- https://emilypost.com/advice/top-10-must-know-table-manners
+- [Table Manners by Etiquette Scholar](https://www.etiquettescholar.com/dining_etiquette/table_manners.html)
+- [Table Manners by Emily Post](https://emilypost.com/advice/top-10-must-know-table-manners)

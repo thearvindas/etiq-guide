@@ -9,4 +9,4 @@ date: 2022-08-19
 - Delaying a meeting because of others’ lateness is highly rude and downright insulting to those who arrived on time to the meeting. What’s more, delaying a meeting instantly devalues the time of the people who are sitting right in front of you
 
 ## sources
-- https://www.theorderexpert.com/time-management-tip-how-respect-other-peoples-time/
+- [Time Etiquette by The Order Expert](https://www.theorderexpert.com/time-management-tip-how-respect-other-peoples-time/)

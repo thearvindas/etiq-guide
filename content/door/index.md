@@ -20,5 +20,5 @@ date: 2022-08-19
 
 
 ## sources
-- https://www.candacesmithetiquette.com/door-etiquette.html
-- https://acdebernadac.com/2018/12/26/door-etiquette-entering-and-exiting/
+- [Door Etiquette by Candace Smith](https://www.candacesmithetiquette.com/door-etiquette.html)
+- [Door Etiquette by Acdebernadac](https://acdebernadac.com/2018/12/26/door-etiquette-entering-and-exiting/)

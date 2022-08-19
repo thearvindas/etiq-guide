@@ -10,3 +10,9 @@ I've found many instances where etiquette is thrown out the bus. It's not rare t
 I made this project to serve as a reminder/recap of certain etiquette I feel everyone should have.
 
 Huge thanks to [Victoria Drake](https://victoria.dev) for creating this lovely [Hugo](https://gohugo.io) [theme](https://github.com/victoriadrake/hugo-theme-sam).
+
+---
+
+In case you'd like to chat — DMs open [@thearvindas](https://twitter.com/thearvindas)!
+
+Check out some other stuff I've built [here](https://thearvindas.xyz/proof-of-work#projects)!
