@@ -1,0 +1,47 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = 'A Quick Guide to Everyday Etiquette'
+theme = "hugo-theme-sam"                # install theme locally (git clone or submodule)
+pygmentsStyle            = "monokai"                        # https://help.farbox.com/pygments.html
+pygmentsCodefences       = true
+# googleAnalytics        = ""                               # Tracking code, eg. "UA-111111111-1"
+
+[params]
+    dateform             = "Mon Jan 02, 2006"
+    dateformfull         = "Mon Jan 2 2006 15:04:05 EST"
+    favicon              = "fav.ico.png"
+    homepage             = "home"                           # What to call the home page link, link will not be rendered if empty
+    footerText           = "Arvin Das, 2022"
+
+# Metadata for Open Graph and Twitter
+    description          = "Putting forward etiquette guidelines that everyone should have"               # Max 160 characters show in search results
+               # Image that shows on Twitter cards and Open Graph links to the site
+    title                = "A Quick Guide to Everyday Etiquette"
+    # rss                = ""
+
+
+[[params.mainMenu]]
+    link = "door"
+    text = "door"
+
+[[params.mainMenu]]
+    link = "time"
+    text = "time"
+
+[[params.mainMenu]]
+    link = "table"
+    text = "table"
+
+[[params.mainMenu]]
+    link = "queue"
+    text = "queue"
+[[params.mainMenu]]
+    link = "elevator"
+    text = "elevator"
+
+[[params.mainMenu]]
+    link = "about"
+    text = "about"
+
+[imaging]
+    quality = 75
