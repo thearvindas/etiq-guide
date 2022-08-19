@@ -7,7 +7,7 @@ date: 2022-08-19
 - Exercise huge amounts of patience, even when the queue appears endless
 - If you are holding a place for someone, explain to others around you to avoid conflict
 - If someone appears like they are jumping the queue, politely correct them without getting into a squabble
- - Respect other people’s space while on the queue. Watch your conversation on the phone, keep it confidential
+ - Respect other people’s space while on the queue
 
 ## sources
 - https://www.vanguardngr.com/2016/09/etiquette-queuing-stay-line/
